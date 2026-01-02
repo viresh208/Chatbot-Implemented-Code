@@ -1,0 +1,6 @@
+@HospitalChatbot.API_HostAddress = http://localhost:5120
+
+GET {{HospitalChatbot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

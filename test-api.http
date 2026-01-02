@@ -1,0 +1,7 @@
+### Test Postman Mock API
+POST https://cb45c777-9cd1-4079-b906-48fd30e9653c.mock.pstmn.io/login
+Content-Type: application/json
+
+{
+  "DateofBirth": "28/12/2002"
+}
